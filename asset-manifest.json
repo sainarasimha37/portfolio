@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.741d9398.css",
+    "main.js": "/portfolio/static/js/main.ade5540a.js",
+    "static/media/zoho_icon.png": "/portfolio/static/media/zoho_icon.1367c7b9300ce71351a6.png",
+    "static/media/KLU_logo.png": "/portfolio/static/media/KLU_logo.2136db16863792e5c5e1.png",
+    "static/media/flatironsai_logo.png": "/portfolio/static/media/flatironsai_logo.745e38febeabf8c5ca50.png",
+    "static/media/CDK_icon.jpg": "/portfolio/static/media/CDK_icon.ded45ecfcfb91cb665f4.jpg",
+    "static/media/nyu_logo.webp": "/portfolio/static/media/nyu_logo.49a824a30f32760f492c.webp",
+    "index.html": "/portfolio/index.html",
+    "main.741d9398.css.map": "/portfolio/static/css/main.741d9398.css.map",
+    "main.ade5540a.js.map": "/portfolio/static/js/main.ade5540a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.741d9398.css",
+    "static/js/main.ade5540a.js"
+  ]
+}
